@@ -1,0 +1,29 @@
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
+body{
+  margin-top:20px;
+}
+.fa-fw {width: 2em;}
+
+/* variables globales*/
+#nav-secundario {
+  padding: 0 50px 0 0;
+  margin: 0;
+  text-align: right;
+  background: #333; 
+}
+
+#nav-secundario > a {
+  display: inline-block;
+  padding: 10px 15px;
+  color: #999;
+  font-size: 13px;
+  font-weight: 100; 
+}
+
+#nav-secundario > a:hover {
+  color: #ddd;
+  background-color: #111; 
+}
+.imgWelcome{
+  margin-bottom: 20px;
+}

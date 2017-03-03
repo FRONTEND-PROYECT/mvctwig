@@ -1,0 +1,95 @@
+/* variables globales*/
+$color-nav-back: #333;
+$color-nav-font: #999;
+
+#nav-secundario{
+	padding: 0 50px 0 0;
+	margin: 0;
+	text-align: right;
+	background: $color-nav-back;
+}
+
+#nav-secundario > a {
+	display: inline-block;
+	padding: 10px 15px;
+	color: $color-nav-font;
+	font-size: 13px;
+	font-weight: 100;
+}
+
+#nav-secundario > a:hover {
+	color: #ddd;
+	background-color: #111;
+}
+
+header > h1{
+	width: 980px;
+	height: 150px;
+	padding: 80px 0 0 20px;
+	margin: 0 auto;
+
+	background: url('../img/bg_header.jpg') center bottom no-repeat #eee;
+	background-size: cover;
+
+}
+/* menu navegacion principal */
+#logo{
+	color: #5C8DC5;
+	font-size: 46px;
+	font-weight: 100;
+}
+
+#nav-principal{
+	background-color: #333;
+	width: 15%;
+	float: left;
+}
+
+#nav-principal ul{
+	display: block;
+	overflow: auto;	
+	margin: 0 auto;
+	list-style: none;
+	padding: 0;
+}
+
+#nav-principal li:hover{
+	background-color: #333;
+}
+
+#nav-principal a {
+	display: block;
+	padding: 15px 15px;
+
+	color: #eee;
+	font-size: 15px;
+	text-shadow: 0 1px #98ABC6
+}
+#nav-principal a:hover{
+	color: #ddd;
+	background-color: #111;
+}
+#contenedor, footer{
+	padding: 0;
+	margin: 0 auto;
+}
+#principal{
+	width: 85%;
+	float: left;
+}
+#principal h2{
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+}
+
+.ventana{
+	display:none;  /*    <!-- -------------------------> es importante ocultar las ventanas previamente --> */
+	font-family:Arial, Helvetica, sans-serif;
+	color:#808080;
+	line-height:28px;
+	font-size:15px;
+	text-align:justify;
+}

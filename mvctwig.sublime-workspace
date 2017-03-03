@@ -1,0 +1,1124 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"but",
+				"button\tTag"
+			],
+			[
+				"btn",
+				"button\t<button>"
+			],
+			[
+				"inicia",
+				"iniciarSession"
+			],
+			[
+				"labe",
+				"label\t<label> with <input>"
+			],
+			[
+				"btn-",
+				"btn-danger"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"maxl",
+				"maxlength=〔attribute〕"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"mostra",
+				"mostrar"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"lisra",
+				"$listado〔variable〕"
+			],
+			[
+				"getMe",
+				"get_meta_tags"
+			],
+			[
+				"inici",
+				"iniciarSession〔function〕"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ce",
+				"cerrarSession"
+			],
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"session",
+				"session_name"
+			],
+			[
+				"nick",
+				"$nick〔variable〕"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"lista",
+				"$listado〔variable〕"
+			],
+			[
+				"fk",
+				"fkGrupo"
+			],
+			[
+				"dele",
+				"deleteLogico〔function〕"
+			],
+			[
+				"modi",
+				"editModel〔function〕"
+			],
+			[
+				"is_n",
+				"is_null〔function〕"
+			],
+			[
+				"delete",
+				"deleteLogico"
+			],
+			[
+				"Tran",
+				"TransfPersonalModel.listar"
+			],
+			[
+				"pktra",
+				"$pkTransf〔variable〕"
+			],
+			[
+				"edita",
+				"$editando〔variable〕"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"edi",
+				"editModel"
+			],
+			[
+				"Det",
+				"DetTransfPersonalModel"
+			],
+			[
+				"Eq",
+				"EquipoModel"
+			],
+			[
+				"fkeq",
+				"fkeqtipo"
+			],
+			[
+				"modelo",
+				"$modelos〔variable〕"
+			],
+			[
+				"data",
+				"data-mask"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"eq",
+				"eqModel〔variable〕"
+			],
+			[
+				"Orede",
+				"OrdenTrabajoModel"
+			],
+			[
+				"para",
+				"parametros"
+			],
+			[
+				"fkorde",
+				"fkordentrabajo"
+			],
+			[
+				"select",
+				"selectedIndex"
+			],
+			[
+				"actiidad",
+				"actividades"
+			],
+			[
+				"getEle",
+				"getElementById〔function〕"
+			],
+			[
+				"forea",
+				"foreach"
+			],
+			[
+				"F",
+				"FuncionesComunes"
+			],
+			[
+				"getOrdenTraba",
+				"getOrdenTrabajoFromData"
+			],
+			[
+				"pkim",
+				"$pkImprod〔variable〕"
+			],
+			[
+				"fecha",
+				"$fecha〔variable〕"
+			],
+			[
+				"fechaini",
+				"fechaini"
+			],
+			[
+				"gestion",
+				"$gestion〔variable〕"
+			],
+			[
+				"gestio",
+				"$gestion〔variable〕"
+			],
+			[
+				"cons",
+				"$consulta〔variable〕"
+			],
+			[
+				"objeto",
+				"$objeto〔variable〕"
+			],
+			[
+				"resul",
+				"resultado"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"impro",
+				"$improductiva〔variable〕"
+			],
+			[
+				"improd",
+				"$improductivas〔variable〕"
+			],
+			[
+				"objec",
+				"$objects〔variable〕"
+			],
+			[
+				"obj",
+				"object\t<object>"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"pkgestio",
+				"pkGestion"
+			],
+			[
+				"des",
+				"$descripcion〔variable〕"
+			],
+			[
+				"pk",
+				"$pkImproductiva〔variable〕"
+			],
+			[
+				"html",
+				"htmlentities〔function〕"
+			],
+			[
+				"controll",
+				"controllerName"
+			],
+			[
+				"json",
+				"json_decode〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"requir",
+				"require_once"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"scr",
+				"script\t<script>"
+			],
+			[
+				"par",
+				"parseInt〔function〕"
+			],
+			[
+				"col-m",
+				"col-md-offset-4"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"clas",
+				"class\tAttr"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"int",
+				"inputr\tinput - radio"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"barc",
+				"background-color"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"balc",
+				"background-color"
+			],
+			[
+				"img",
+				"img\timg"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"mI",
+				"$mImg〔variable〕"
+			],
+			[
+				"files",
+				"$filesCount〔variable〕"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"ex",
+				"ext"
+			],
+			[
+				"Ex",
+				"Expression〔class〕"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"s",
+				"Simgusuario〔class〕"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"ma",
+				"MailTo〔class〕"
+			],
+			[
+				"url",
+				"Url〔class〕"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"file",
+				"fileVideo〔variable〕"
+			],
+			[
+				"e",
+				"extValidas"
+			],
+			[
+				"on",
+				"onchange\tAttr"
+			],
+			[
+				"inputs",
+				"inputs\tinput - submit"
+			],
+			[
+				"shado",
+				"box-shadow"
+			],
+			[
+				"radi",
+				"border-radius"
+			],
+			[
+				"sit",
+				"stipousuario"
+			],
+			[
+				"lorem",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"artic",
+				"article\t<article>"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "tecnologias para el frontEnd\n------------------------------------------\nhtml5\njade\n\njavascript\njquery\nangularjs\nreactjs\ncoffeescript\n\ncss3\nbootstrap3\nfoundation\nsass\n\ntecnologias en BackEnd\n-------------------------------------------\nphyton\nphp\nlaravel\nsimfony\nyii2\n\nCLOUD \n------\nheroku\namazon web services\nmicrosoft azure\ndigital ocean\n\nDEVOPS\n--------------\ndocker\nansible\n\n\nelectron js para pasar aplicaciones web a escritorio\n\n",
+			"settings":
+			{
+				"buffer_size": 432,
+				"line_ending": "Windows",
+				"name": "tecnologias para el frontEnd"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Color Picker"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"Snippet: html",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: html"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"auto\t",
+				"Autoprefix CSS"
+			],
+			[
+				"installa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"ruby --version",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/2015/repositorios/mvctwig"
+	],
+	"file_history":
+	[
+		"/C/Users/limbe/Desktop/software para web.txt",
+		"/C/Users/limbe/Desktop/descargar.txt",
+		"/D/programas x64/windows 10/Microsoft.Windows.and.Office.ISO.Download.Tool.v4.16-FREE/Instrucciones.txt",
+		"/D/2015/repositorios/mvctwig/README.md",
+		"/D/2015/repositorios/mvctwig/sftp-config.json",
+		"/C/Users/limbe/Desktop/ejemploProyect/proyecto.sublime-project",
+		"/D/Instaladores/windows 7/vpn.txt",
+		"/D/Instaladores/windows 7/compartir w7.txt",
+		"/C/Users/limbe/Desktop/primer parcial.txt",
+		"/C/Users/limbe/Desktop/data/FoxitPhantomPDFBusiness7.2.5.0930/FoxitPhantomPDFBusiness7.2.5.0930/Read me!.txt",
+		"/C/Users/limbe/Desktop/data/FoxitPhantomPDFBusiness7.2.5.0930/FoxitPhantomPDFBusiness7.2.5.0930/Leer.txt",
+		"/D/Instaladores/windows 7/DIAS DE POTENZA.txt",
+		"/D/2016/2-2016/sistemas distribuidos/10.-Dist_Practica111/Ej_Tres_en_Raya/Ej_Tres_en_Raya/Form1.cs",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/2015/repositorios/siagroyii/Base de Datos/dbsiagro9.sql",
+		"/D/2015/repositorios/studio/Documentacion/Base de datos/db2.sql",
+		"/D/2015/repositorios/studio/Documentacion/Base de datos/db1.sql",
+		"/D/2015/repositorios/studio/Documentacion/Base de datos/db.sql",
+		"/D/2015/repositorios/studio/Documentacion/Base de datos/db3.sql",
+		"/C/xampp/htdocs/tracking.js/examples/face_camera.html",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/tracking.js/examples/face_hello_world.html",
+		"/C/xampp/htdocs/tracking.js/examples/face_tag_friends.html",
+		"/E/flash/DATA/Proyectos JAVA LIMBERT - OSCAR/Limbert/1er Parcial/1er Parcial/DSBC-web/js/json.js",
+		"/E/flash/DATA/Proyectos JAVA LIMBERT - OSCAR/Limbert/1er Parcial/1er Parcial/DSBC-web/js/prototype.js",
+		"/D/2015/repositorios/css/leeme.txt",
+		"/E/flash/DATA/Proyectos JAVA LIMBERT - OSCAR/Limbert/1er Parcial/1er Parcial/DSBC-web/demo.js",
+		"/E/flash/DATA/Proyectos JAVA LIMBERT - OSCAR/Limbert/1er Parcial/1er Parcial/DSBC-web/js/ajaxBarra.js",
+		"/D/2015/repositorios/emergentes/emergentes/views/cliente/create.php",
+		"/D/2015/repositorios/emergentes/emergentes/controllers/SiteController.php",
+		"/D/2015/repositorios/emergentes/emergentes/libs/FrontController.php",
+		"/D/2015/repositorios/emergentes/emergentes/libs/Model.php",
+		"/D/2015/repositorios/emergentes/emergentes/models/User.php",
+		"/D/2015/repositorios/emergentes/emergentes/config.php",
+		"/D/2015/repositorios/emergentes/emergentes/bd.sql",
+		"/D/2014/2-2014/Sistemas Distribuidos/manjeador de eventos/PersonaEventObject.java",
+		"/D/2014/2-2014/Sistemas Distribuidos/manjeador de eventos/Manejador1PersonaEventListener.java",
+		"/D/2014/2-2014/Sistemas Distribuidos/manjeador de eventos/PersonaEventListener.java",
+		"/D/2014/2-2014/Sistemas Distribuidos/manjeador de eventos/MainClass.java",
+		"/D/2014/2-2014/Sistemas Distribuidos/manjeador de eventos/Persona.java",
+		"/C/Users/limbe/Desktop/plugins SublimText.txt",
+		"/D/2015/repositorios/tecnologia/index.html",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/D/2015/repositorios/tecnologia/practica3/index.html",
+		"/D/2015/repositorios/tecnologia/practica3/css/stilo.css",
+		"/D/2015/repositorios/tecnologia/practica3/js/aplicacion.js",
+		"/D/2015/repositorios/tecnologia/practica7/index.html",
+		"/D/2015/repositorios/tecnologia/practica3/notas practicas 3",
+		"/D/2015/repositorios/tecnologia/practica4/index.html",
+		"/C/Users/limbe/Downloads/boruto/Boruto.Naruto.the.Movie.2015.720p.BDRip.XviD.AC3/Boruto.Naruto.the.Movie.2015.720p.BDRip.XviD.AC3.Spanish.con.Estilos.srt",
+		"/E/Sistema Contable/SCONT/MODELO/insertarTablas.sql",
+		"/E/Sistema Contable/SCONT/MODELO/BD-Admin.SQL",
+		"/E/Sistema Contable/SCONT/MODELO/BD.SQL",
+		"/C/Users/limbe/Desktop/ceicon la pass imlock.txt",
+		"/E/Sistema Contable/SCONT/MODELO/ver Tablas que contienen Data.sql",
+		"/D/2015/repositorios/studio/db/db.sql",
+		"/C/xampp/apache/conf/extra/httpd-vhosts1.conf",
+		"/D/2015/repositorios/studio/config/db.php",
+		"/D/2015/repositorios/tecnologia/assets/css/stilo.css",
+		"/D/2015/repositorios/tecnologia/index.php",
+		"/D/2015/repositorios/tecnologia/help.php",
+		"/D/2015/repositorios/tecnologia/practica7/header.php",
+		"/D/2015/repositorios/tecnologia/Documentacion/ScriptBD/dbsispro6.sql",
+		"/D/2015/repositorios/tecnologia/Documentacion/ScriptBD/autenticacion.sql",
+		"/C/Users/limbe/AppData/Local/Temp/fz3temp-2/index.php",
+		"/D/2015/repositorios/siagro/Controladores/TransfPersonalController.php",
+		"/C/Users/limbe/AppData/Local/Temp/fz3temp-2/SPDO.php",
+		"/D/2015/repositorios/siagro/Controladores/TransfEquipoController.php",
+		"/D/2015/repositorios/siagro/leeme.txt",
+		"/D/2015/repositorios/siagro/Documentacion/Documentacion/hola.sql",
+		"/D/2015/repositorios/siagro/Controladores/AutenticacionController.php",
+		"/D/2015/repositorios/siagro/libs/FrontController.php",
+		"/D/2015/repositorios/siagro/libs/Configure.php",
+		"/D/2015/repositorios/siagro/Controladores/PrincipalController.php",
+		"/D/2015/repositorios/siagro/Vistas/PrincipalView.php",
+		"/D/2015/repositorios/siagro/js/principal.js",
+		"/D/2015/repositorios/siagro/Vistas/AutenticacionView.php",
+		"/D/2015/repositorios/siagro/js/autenticacion.js",
+		"/D/2015/repositorios/siagro/Controladores/PersonalController.php",
+		"/D/2015/repositorios/siagro/Modelos/UsuarioModel.php",
+		"/D/2015/repositorios/siagro/Modelos/GrupoModel.php",
+		"/D/2015/repositorios/siagro/libs/ControllerBase.php",
+		"/D/2015/repositorios/siagro/Modelos/ModuloGrupoModel.php",
+		"/D/2015/repositorios/siagro/Vistas/ImproductivaListView.php",
+		"/D/2015/repositorios/siagro/Controladores/ImproductivaController.php",
+		"/D/2015/repositorios/siagro/js/transferenciaPersonal.js",
+		"/D/2015/repositorios/siagro/js/personal.js",
+		"/D/2015/repositorios/siagro/js/equipo.js",
+		"/D/2015/repositorios/siagro/js/gestion.js",
+		"/D/2015/repositorios/siagro/js/improductiva.js",
+		"/D/2015/repositorios/siagro/js/itemObra.js",
+		"/D/2015/repositorios/siagro/js/ordenTrabajo.js",
+		"/D/2015/repositorios/siagro/Vistas/ItemObraView.php",
+		"/D/2015/repositorios/siagro/Vistas/OrdenTrabajoView.php",
+		"/D/2015/repositorios/siagro/Controladores/EquipoController.php",
+		"/D/2015/repositorios/siagro/index.php",
+		"/D/2015/repositorios/siagro/sftp-config.json",
+		"/C/Users/limbe/AppData/Local/Temp/fz3temp-2/FrontController.php",
+		"/C/Users/limbe/AppData/Local/Temp/fz3temp-2/Configure.php",
+		"/C/Users/limbe/AppData/Local/Temp/fz3temp-2/AutenticacionController.php",
+		"/D/2015/repositorios/siagro/Vistas/TransfPersonalView.php",
+		"/D/2015/repositorios/siagro/Vistas/PersonalView.php",
+		"/D/2015/repositorios/siagro/Vistas/EquipoView.php",
+		"/D/2015/repositorios/siagro/Vistas/GestionView.php",
+		"/D/2015/repositorios/siagro/Vistas/ImproductivaView.php",
+		"/D/2015/repositorios/siagro/Vistas/IndexView.php",
+		"/D/2015/repositorios/siagro/Vistas/pruebaView.php",
+		"/D/2015/repositorios/siagro/Vistas/PersonalListView.php",
+		"/D/2015/repositorios/siagro/css/stilo.css",
+		"/D/2015/repositorios/siagro/Vistas/TransfPersonalListView.php",
+		"/D/2015/repositorios/siagro/Vistas/GestionListView.php",
+		"/D/2015/repositorios/siagro/Vistas/ItemObraListView.php",
+		"/D/2015/repositorios/siagro/Vistas/OrdenTrabajoListView.php",
+		"/D/2015/repositorios/siagro/Vistas/EquipoListView.php",
+		"/D/2015/repositorios/siagro/Vistas/error403.php",
+		"/D/2015/repositorios/siagro/Controladores/OrdenTrabajoController.php",
+		"/D/2015/repositorios/siagro/frameworks/jquery/jquery.js",
+		"/D/2015/repositorios/siagro/css/stilo.scss",
+		"/D/2015/repositorios/siagro/libs/ModelBase.php",
+		"/D/2015/repositorios/siagro/menu3capas/gestorLogin.php",
+		"/D/2015/repositorios/siagro/Modelos/AccionModel.php",
+		"/D/2015/repositorios/siagro/Modelos/GestionModel.php",
+		"/D/2015/repositorios/siagro/Modelos/TransfPersonalModel.php",
+		"/D/2015/repositorios/siagro/Modelos/PersonalModel.php",
+		"/D/2015/repositorios/siagro/Modelos/DetTransfPersonalModel.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"D:\\2015\\repositorios\\siagro"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"?\n",
+			"http",
+			"verificarAjax",
+			"Tecnologia",
+			"Tecnologia ",
+			"uagr",
+			"date",
+			"echo",
+			"print",
+			"controla",
+			"control",
+			"coontrol",
+			"contro",
+			"principal",
+			"\\n",
+			"/n",
+			"alert",
+			"validar",
+			"alert",
+			"valid",
+			"validar",
+			"alert",
+			"valida",
+			"alert",
+			"validar",
+			"valida",
+			"alert",
+			"akert",
+			"alert",
+			"validar",
+			"validara",
+			"validar",
+			"alert",
+			"validar",
+			"alert",
+			"aler",
+			"validar",
+			"alert",
+			"validar",
+			"alert",
+			"valida",
+			"hola mundo",
+			"hola mundo como estas en ",
+			"validar",
+			"rendi",
+			"area",
+			"conaol",
+			"butt",
+			"bitt",
+			"butt",
+			"well",
+			"stilo.css",
+			"stilo",
+			"well",
+			"nav-secundario",
+			"principal",
+			"nav-principal",
+			"logo",
+			"header",
+			"nav-secundario",
+			"well",
+			"session definida",
+			"php",
+			"cerrarSession",
+			"session esta definida",
+			"cerrarSession",
+			"nody",
+			"cerrar",
+			"sess",
+			"login",
+			"favico",
+			"cerrarSession",
+			"formlogin",
+			"validar",
+			"form",
+			"validar",
+			"codotdestino",
+			"codOtdestino",
+			"getDetalleArray",
+			"detalles",
+			"validar",
+			"editando",
+			"LlavePrimaria",
+			"guardar",
+			"[",
+			"TFPkDestino",
+			"LlavePrimaria",
+			"guardar",
+			"consultar",
+			"{\n",
+			"session",
+			"EQCodigo",
+			"codigo",
+			"getParametros",
+			"codigo",
+			"[",
+			"cambiarFormato",
+			"salida",
+			"edit",
+			"fetch",
+			"getParametrosWhere",
+			"getParametros",
+			"<",
+			"obtenerGestionActiva",
+			"getParametros",
+			"edit",
+			"resultado",
+			"var_dump",
+			"listar",
+			"tabla",
+			"listar",
+			"consultar",
+			";\n",
+			"getpara",
+			" ",
+			"where",
+			"selec",
+			"lastinse",
+			"add",
+			"algo paso ",
+			"jasny",
+			"_table",
+			"active",
+			"bind",
+			"impro",
+			"editar",
+			"gestion",
+			"DirectoryIndex index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"auto_name": "tecnologias para el frontEnd",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 475.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 141.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 148.0
+	},
+	"pinned_build_system": "",
+	"project": "mvctwig.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
