@@ -1,10 +1,11 @@
 var gulp    = require('gulp'); // obtenemos gulp
 var sass    = require('gulp-sass'); // modulo sass instalado
-var browser = require('browser-sync').create(); //modulo de recarga de pagina
 var uglify = require('gulp-uglify'); // minificacion de js
 var pump = require('pump'); // modulo auxiliar para la minificacion de js
 var cssnano = require('gulp-cssnano'); // minificacion de css
-var imagemin = require('gulp-imagemin');
+var imagemin = require('gulp-imagemin'); // modulo para optimizar imagen
+var autoprefixer = require('gulp-autoprefixer'); // modulo para autoprefixer css
+var browser = require('browser-sync').create(); //modulo de recarga de pagina
 
 //tarea principal que se lanzará
 gulp.task('server',['sass'], function(){
@@ -16,6 +17,16 @@ gulp.task('server',['sass'], function(){
     gulp.watch("app/*.html").on('change', browser.reload); // observa y recarga la pagina cuando hay cambios en el html
     gulp.watch("app/js/*.js", ['comprimir']); // llamamos a la tarea de comprimir
 });
+
+
+gulp.task('default', () =>
+    gulp.src('src/app.css')
+        .pipe(autoprefixer({
+            browsers: ['last 2 versions'],
+            cascade: false
+        }))
+        .pipe(gulp.dest('dist'))
+);
 
 // tarea para optimizar imagenes
 // esta es una tarea independiente, no es necesario que este funcionando todo el tiempo.
@@ -42,6 +53,10 @@ gulp.task('comprimir', function (cb) {
 gulp.task('sass', function(){
   return gulp.src('scss/**/*.scss') // obtiene los documento de la fuente
           .pipe(sass()) // compilar con sass
+          .pipe(autoprefixer({ // autoprefixer para el css
+              browsers: ['last 10 versions'],
+              cascade: true
+          }))
           .pipe(gulp.dest('app/css')) // el resultado de compilar lo guarda alli
           .pipe(cssnano()) // encargado de minificar el css
           .pipe(gulp.dest('app/css/dist')) // el resultado de compilar lo guarda alli

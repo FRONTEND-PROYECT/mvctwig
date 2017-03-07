@@ -7,5 +7,8 @@ button {
   height: 100px; }
 
 .btn2 {
-  color: blue;
-  display: inline-block; }
+  color: yellow;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
