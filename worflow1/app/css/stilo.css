@@ -7,4 +7,5 @@ button {
   height: 100px; }
 
 .btn2 {
-  color: blue; }
+  color: blue;
+  display: inline-block; }

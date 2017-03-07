@@ -3,6 +3,7 @@ var sass    = require('gulp-sass'); // modulo sass instalado
 var browser = require('browser-sync').create(); //modulo de recarga de pagina
 var uglify = require('gulp-uglify'); // minificacion de js
 var pump = require('pump'); // modulo auxiliar para la minificacion de js
+var cssnano = require('gulp-cssnano'); // minificacion de css
 
 //tarea principal que se lanzará
 gulp.task('server',['sass'], function(){
@@ -31,6 +32,8 @@ gulp.task('sass', function(){
   return gulp.src('scss/**/*.scss') // obtiene los documento de la fuente
           .pipe(sass()) // compilar con sass
           .pipe(gulp.dest('app/css')) // el resultado de compilar lo guarda alli
+          .pipe(cssnano()) // encargado de minificar el css
+          .pipe(gulp.dest('app/css/dist')) // el resultado de compilar lo guarda alli
           .pipe(browser.stream()); // inyecta el resultado en el archivo html.
                                    // (solo usar cuando se esta usando browser-sync)
 });
