@@ -4,6 +4,7 @@ var browser = require('browser-sync').create(); //modulo de recarga de pagina
 var uglify = require('gulp-uglify'); // minificacion de js
 var pump = require('pump'); // modulo auxiliar para la minificacion de js
 var cssnano = require('gulp-cssnano'); // minificacion de css
+var imagemin = require('gulp-imagemin');
 
 //tarea principal que se lanzará
 gulp.task('server',['sass'], function(){
@@ -15,6 +16,16 @@ gulp.task('server',['sass'], function(){
     gulp.watch("app/*.html").on('change', browser.reload); // observa y recarga la pagina cuando hay cambios en el html
     gulp.watch("app/js/*.js", ['comprimir']); // llamamos a la tarea de comprimir
 });
+
+// tarea para optimizar imagenes
+// esta es una tarea independiente, no es necesario que este funcionando todo el tiempo.
+// llamarlo cada vez que guardamos nuevas imagenes con
+// # gulp optimizar
+gulp.task('optimizar', () =>
+        gulp.src('img/*')
+        .pipe(imagemin())
+        .pipe(gulp.dest('app/img'))
+);
 
 // tarea para la minificacion de los arhivos js.
 gulp.task('comprimir', function (cb) {
