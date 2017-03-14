@@ -5,6 +5,7 @@ var pump = require('pump'); // modulo auxiliar para la minificacion de js
 var cssnano = require('gulp-cssnano'); // minificacion de css
 var imagemin = require('gulp-imagemin'); // modulo para optimizar imagen
 var autoprefixer = require('gulp-autoprefixer'); // modulo para autoprefixer css
+var htmlmin = require('gulp-htmlmin'); // modulo para minificacon del html
 var browser = require('browser-sync').create(); //modulo de recarga de pagina
 
 //tarea principal que se lanzará
@@ -16,17 +17,15 @@ gulp.task('server',['sass'], function(){
     gulp.watch("scss/**/*.scss", ['sass']); // observa los cambios en sass
     gulp.watch("app/*.html").on('change', browser.reload); // observa y recarga la pagina cuando hay cambios en el html
     gulp.watch("app/js/*.js", ['comprimir']); // llamamos a la tarea de comprimir
+    gulp.watch("./*.html", ['minificar']); // observa los cambios en los html
 });
 
-
-gulp.task('default', () =>
-    gulp.src('src/app.css')
-        .pipe(autoprefixer({
-            browsers: ['last 2 versions'],
-            cascade: false
-        }))
-        .pipe(gulp.dest('dist'))
-);
+//  tarea para minificar los archivos html
+gulp.task('minificar', function() {
+  return gulp.src('./*.html')
+    .pipe(htmlmin({collapseWhitespace: true}))
+    .pipe(gulp.dest('app'));
+});
 
 // tarea para optimizar imagenes
 // esta es una tarea independiente, no es necesario que este funcionando todo el tiempo.
