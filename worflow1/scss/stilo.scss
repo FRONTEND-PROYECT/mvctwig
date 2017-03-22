@@ -1,15 +1,11 @@
-$color-fondo: red;
+$color-corporativo: gray;
+$color-acentuado: blue;
+
 body{
-  background-color: $color-fondo;
-  padding-top: 20px;
+  background-color: $color-corporativo;
 }
 
-button{
-  color: green;
-  height: 100px;
-}
-
-.btn2{
-  color: black;
-  display: flex;
+header{
+  height: 150px;
+  background-color: $color-acentuado;
 }

@@ -1,1 +1,1 @@
-!function(){function n(n){return n}function o(n){console.info(n,"un saludo desde el javaScript")}o(n("Juan Armando"))}();
+!function(){function n(n){return n}function o(n){console.info(n,"un saludo desde el javaScript")}o(n("juan jose y maria"))}();

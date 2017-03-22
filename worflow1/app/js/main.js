@@ -6,5 +6,5 @@
     console.info(nombre, 'un saludo desde el javaScript');
   }
 
-  saludar(nombrar("Juan Armando"));
+  saludar(nombrar("juan jose y maria"));
 })();
